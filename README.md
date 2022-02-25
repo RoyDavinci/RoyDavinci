@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @RoyDavinci
-- 👀 I’m interested in Fullstack Engineering
-- 🌱 I’m currently learning ...React and Node
-- 💞️ I’m looking to collaborate on ...Internship opportunities or frontend development
+- 👀 Fullstack Engineer
 - 📫 How to reach me ...emsthias33@gmail.com
 
 <!---
